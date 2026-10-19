@@ -1,0 +1,2 @@
+feature,target,intercept,slope,train_rows,test_rows
+size_sqm,price_etb,-678255.1102430504,47363.04659375257,2400,600
